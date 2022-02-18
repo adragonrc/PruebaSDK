@@ -1,0 +1,6 @@
+framework module PreventorSDKCore {
+  umbrella header "PreventorSDKCore.h"
+
+  export *
+  module * { export * }
+}
